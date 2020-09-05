@@ -1,0 +1,309 @@
+
+INPUT-UNITS     INCHES
+
+WHEEL     1
+
+LINE           0.004            D306
+LINE           0.039            D308
+LINE           0.984            D310
+LINE               1            D300
+LINE           1.969            D309
+LINE           3.937            D304
+LINE               4            D301
+LINE           4.724            D311
+LINE               5            D303
+LINE           5.512            D307
+LINE               6            D298
+LINE           6.693            D305
+LINE           7.874            D81
+LINE               8            D302
+LINE              10            D299
+LINE              11            D221
+LINE          11.811            D86
+LINE              12            D23
+LINE              15            D312
+LINE          17.717            D212
+LINE          19.685            D159
+LINE              22            D228
+LINE          23.622            D241
+LINE              25            D203
+LINE          25.591            D35
+LINE          27.559            D110
+LINE          30.512            D32
+LINE          31.496            D103
+LINE              36            D167
+LINE              40            D170
+LINE          55.118            D262
+LINE             420            D46
+CIRCLE            12            D51
+CIRCLE            16            D52
+CIRCLE            19            D53
+CIRCLE            20            D54
+CIRCLE        21.657            D115
+CIRCLE            26            D59
+CIRCLE            27            D58
+CIRCLE            35            D56
+CIRCLE            36            D55
+CIRCLE        43.307            D97
+CIRCLE            50            D297
+CIRCLE            51            D296
+CIRCLE        55.039            D40
+CIRCLE            60            D57
+CIRCLE            61            D11
+CIRCLE            62            D244
+CIRCLE            65            D120
+CIRCLE            67            D245
+CIRCLE            75            D194
+CIRCLE            77            D10
+CIRCLE        98.425            D98
+CIRCLE           100            D131
+CIRCLE           105            D132
+CIRCLE           110            D192
+CIRCLE           118            D193
+CIRCLE           130            D265
+CIRCLE           135            D27
+CIRCLE           150            D26
+CIRCLE           158            D189
+CIRCLE           165            D190
+CIRCLE           170            D191
+CIRCLE           200            D49
+CIRCLE           205            D50
+SQUARE             1   0.00000            D18
+SQUARE        19.685   0.00000            D15
+SQUARE            32   0.00000            D186
+SQUARE            50   0.00000            D12
+SQUARE        55.039   0.00000            D41
+SQUARE            62   0.00000            D175
+SQUARE            65   0.00000            D118
+SQUARE            77   0.00000            D119
+SQUARE           100   0.00000            D129
+SQUARE           105   0.00000            D130
+SQUARE           127   0.00000            D22
+SQUARE         127.9   0.00000            D21
+RECTANGLE      7.874    19.685   0.00000  D85
+RECTANGLE      7.874    27.559   0.00000  D183
+RECTANGLE         11        70   0.00000  D220
+RECTANGLE      11.81     29.53   0.00000  D148
+RECTANGLE     11.811     13.78   0.00000  D78
+RECTANGLE     11.811    25.591   0.00000  D94
+RECTANGLE     11.811    31.496   0.00000  D44
+RECTANGLE     11.811    55.118   0.00000  D42
+RECTANGLE         12        18   0.00000  D141
+RECTANGLE     12.598    26.378   0.00000  D92
+RECTANGLE      13.78    11.811   0.00000  D77
+RECTANGLE     15.748     53.15   0.00000  D38
+RECTANGLE         16        20   0.00000  D144
+RECTANGLE         18        12   0.00000  D142
+RECTANGLE         18    27.748   0.00000  D20
+RECTANGLE     19.685     7.874   0.00000  D84
+RECTANGLE     19.685    35.433   0.00000  D14
+RECTANGLE     19.685    44.244   0.00000  D127
+RECTANGLE     19.685    61.024   0.00000  D163
+RECTANGLE         20        16   0.00000  D143
+RECTANGLE         22        91   0.00000  D138
+RECTANGLE     23.228    62.205   0.00000  D76
+RECTANGLE     23.622    41.339   0.00000  D140
+RECTANGLE     23.622    61.024   0.00000  D236
+RECTANGLE         25        70   0.00000  D202
+RECTANGLE         25        94   0.00000  D232
+RECTANGLE     25.591    11.811   0.00000  D93
+RECTANGLE     26.378    12.598   0.00000  D91
+RECTANGLE     27.559     7.874   0.00000  D182
+RECTANGLE     27.559    27.559   0.00000  D60
+RECTANGLE     27.748        18   0.00000  D19
+RECTANGLE         28        33   0.00000  D284
+RECTANGLE      29.53     11.81   0.00000  D147
+RECTANGLE     31.496    11.811   0.00000  D45
+RECTANGLE     31.496    48.819   0.00000  D71
+RECTANGLE     31.496   102.362   0.00000  D256
+RECTANGLE         32        37   0.00000  D286
+RECTANGLE         32        78   0.00000  D184
+RECTANGLE     32.283    103.15   0.00000  D254
+RECTANGLE         33        28   0.00000  D285
+RECTANGLE         34        40   0.00000  D246
+RECTANGLE         34        50   0.00000  D248
+RECTANGLE         35       110   0.00000  D294
+RECTANGLE     35.433    19.685   0.00000  D13
+RECTANGLE     35.433    55.118   0.00000  D114
+RECTANGLE     35.433    59.055   0.00000  D117
+RECTANGLE     35.433    98.425   0.00000  D180
+RECTANGLE         37        32   0.00000  D287
+RECTANGLE         37        53   0.00000  D290
+RECTANGLE         37        67   0.00000  D278
+RECTANGLE     37.402    41.732   0.00000  D188
+RECTANGLE     37.402    98.425   0.00000  D67
+RECTANGLE      39.37    47.244   0.00000  D108
+RECTANGLE      39.37    62.992   0.00000  D89
+RECTANGLE         40        34   0.00000  D247
+RECTANGLE         40        50   0.00000  D273
+RECTANGLE         40        55   0.00000  D154
+RECTANGLE         40        80   0.00000  D150
+RECTANGLE         41        57   0.00000  D292
+RECTANGLE         41        71   0.00000  D280
+RECTANGLE     41.339    23.622   0.00000  D139
+RECTANGLE     41.339   149.606   0.00000  D253
+RECTANGLE     41.732    37.402   0.00000  D187
+RECTANGLE         44        96   0.00000  D177
+RECTANGLE     44.244    19.685   0.00000  D128
+RECTANGLE         45        55   0.00000  D226
+RECTANGLE         45        65   0.00000  D224
+RECTANGLE         45       140   0.00000  D165
+RECTANGLE     45.276    59.055   0.00000  D64
+RECTANGLE     45.276    86.614   0.00000  D65
+RECTANGLE     45.669    47.244   0.00000  D69
+RECTANGLE     45.669    49.213   0.00000  D61
+RECTANGLE     47.244     39.37   0.00000  D109
+RECTANGLE     47.244    45.669   0.00000  D70
+RECTANGLE     47.244    51.181   0.00000  D107
+RECTANGLE         48        53   0.00000  D282
+RECTANGLE     48.819    31.496   0.00000  D72
+RECTANGLE     49.213    45.669   0.00000  D62
+RECTANGLE     49.213   112.205   0.00000  D136
+RECTANGLE         50        34   0.00000  D249
+RECTANGLE         50        40   0.00000  D272
+RECTANGLE         50        60   0.00000  D179
+RECTANGLE         50        90   0.00000  D152
+RECTANGLE         50       115   0.00000  D266
+RECTANGLE     51.181    47.244   0.00000  D106
+RECTANGLE     51.181   110.236   0.00000  D101
+RECTANGLE         52       142   0.00000  D209
+RECTANGLE         53        37   0.00000  D291
+RECTANGLE         53        48   0.00000  D283
+RECTANGLE      53.15    15.748   0.00000  D39
+RECTANGLE     53.886    101.13   0.00000  D158
+RECTANGLE         55        40   0.00000  D153
+RECTANGLE         55        45   0.00000  D227
+RECTANGLE     55.118    11.811   0.00000  D43
+RECTANGLE     55.118    35.433   0.00000  D113
+RECTANGLE     55.118    70.866   0.00000  D260
+RECTANGLE     55.118   133.858   0.00000  D174
+RECTANGLE     55.512     71.26   0.00000  D258
+RECTANGLE         57        41   0.00000  D293
+RECTANGLE         57        73   0.00000  D288
+RECTANGLE         57        87   0.00000  D276
+RECTANGLE      57.48   213.386   0.00000  D218
+RECTANGLE     57.984    85.543   0.00000  D240
+RECTANGLE         59        63   0.00000  D80
+RECTANGLE     59.055    35.433   0.00000  D116
+RECTANGLE     59.055    45.276   0.00000  D63
+RECTANGLE     59.055    61.024   0.00000  D30
+RECTANGLE         60        50   0.00000  D178
+RECTANGLE         60        60   0.00000  D164
+RECTANGLE         60        72   0.00000  D196
+RECTANGLE     61.024    19.685   0.00000  D162
+RECTANGLE     61.024    23.622   0.00000  D235
+RECTANGLE     61.024    59.055   0.00000  D31
+RECTANGLE     62.205    23.228   0.00000  D75
+RECTANGLE     62.992     39.37   0.00000  D90
+RECTANGLE     62.992    74.803   0.00000  D99
+RECTANGLE     62.992    84.646   0.00000  D121
+RECTANGLE         63        59   0.00000  D79
+RECTANGLE         63        75   0.00000  D198
+RECTANGLE         63        94   0.00000  D16
+RECTANGLE         65        45   0.00000  D225
+RECTANGLE         65        77   0.00000  D200
+RECTANGLE         67        37   0.00000  D279
+RECTANGLE         69        71   0.00000  D207
+RECTANGLE         70        11   0.00000  D219
+RECTANGLE         70        25   0.00000  D201
+RECTANGLE     70.866    55.118   0.00000  D261
+RECTANGLE     70.866   102.362   0.00000  D123
+RECTANGLE         71        41   0.00000  D281
+RECTANGLE         71        69   0.00000  D206
+RECTANGLE      71.26    55.512   0.00000  D259
+RECTANGLE         72        60   0.00000  D195
+RECTANGLE         73        57   0.00000  D289
+RECTANGLE     74.803    62.992   0.00000  D100
+RECTANGLE         75        63   0.00000  D197
+RECTANGLE         77        65   0.00000  D199
+RECTANGLE         78        32   0.00000  D185
+RECTANGLE       78.7      90.5   0.00000  D275
+RECTANGLE         80        40   0.00000  D149
+RECTANGLE     84.646    62.992   0.00000  D122
+RECTANGLE     85.543    57.984   0.00000  D239
+RECTANGLE     86.614    45.276   0.00000  D66
+RECTANGLE         87        57   0.00000  D277
+RECTANGLE     88.583   125.984   0.00000  D28
+RECTANGLE         90        50   0.00000  D151
+RECTANGLE       90.5      78.7   0.00000  D274
+RECTANGLE         91        22   0.00000  D137
+RECTANGLE         94        25   0.00000  D231
+RECTANGLE         94        63   0.00000  D17
+RECTANGLE     94.882   120.079   0.00000  D74
+RECTANGLE         96        44   0.00000  D176
+RECTANGLE     98.425    35.433   0.00000  D181
+RECTANGLE     98.425    37.402   0.00000  D68
+RECTANGLE     98.425   125.984   0.00000  D238
+RECTANGLE     101.13    53.886   0.00000  D157
+RECTANGLE        102       146   0.00000  D268
+RECTANGLE    102.362    31.496   0.00000  D257
+RECTANGLE    102.362    70.866   0.00000  D124
+RECTANGLE        103       108   0.00000  D270
+RECTANGLE     103.15    32.283   0.00000  D255
+RECTANGLE        108       103   0.00000  D271
+RECTANGLE        110        35   0.00000  D295
+RECTANGLE    110.236    51.181   0.00000  D102
+RECTANGLE    110.236   137.795   0.00000  D156
+RECTANGLE    112.205    49.213   0.00000  D135
+RECTANGLE        115        50   0.00000  D267
+RECTANGLE    120.079    94.882   0.00000  D73
+RECTANGLE    125.984    88.583   0.00000  D29
+RECTANGLE    125.984    98.425   0.00000  D237
+RECTANGLE        130       325   0.00000  D210
+RECTANGLE    133.858    55.118   0.00000  D173
+RECTANGLE    137.795   110.236   0.00000  D155
+RECTANGLE        140        45   0.00000  D166
+RECTANGLE        142        52   0.00000  D208
+RECTANGLE    145.669   212.598   0.00000  D215
+RECTANGLE        146       102   0.00000  D269
+RECTANGLE    149.606    41.339   0.00000  D252
+RECTANGLE    212.598   145.669   0.00000  D216
+RECTANGLE    213.386     57.48   0.00000  D217
+RECTANGLE    218.504   255.906   0.00000  D134
+RECTANGLE    255.906   218.504   0.00000  D133
+RECTANGLE        325       130   0.00000  D211
+RECTANGLE    356.299   423.228   0.00000  D251
+RECTANGLE    423.228   356.299   0.00000  D250
+OBLONG         7.874    19.685   0.00000  D83
+OBLONG            11        70   0.00000  D223
+OBLONG        11.811    25.591   0.00000  D96
+OBLONG        11.811    31.496   0.00000  D126
+OBLONG        11.811    33.465   0.00000  D146
+OBLONG        11.811    35.433   0.00000  D88
+OBLONG            12      39.4   0.00000  D24
+OBLONG        17.717    33.465   0.00000  D214
+OBLONG        19.685     7.874   0.00000  D82
+OBLONG        19.685    61.024   0.00000  D161
+OBLONG            22        78   0.00000  D230
+OBLONG        23.622    61.024   0.00000  D243
+OBLONG            25        70   0.00000  D205
+OBLONG            25        94   0.00000  D234
+OBLONG        25.591    11.811   0.00000  D95
+OBLONG        25.591    51.181   0.00000  D37
+OBLONG        27.559    47.244   0.00000  D112
+OBLONG        30.512    61.024   0.00000  D34
+OBLONG        31.496    11.811   0.00000  D125
+OBLONG        31.496    51.181   0.00000  D105
+OBLONG        33.465    11.811   0.00000  D145
+OBLONG        33.465    17.717   0.00000  D213
+OBLONG        35.433    11.811   0.00000  D87
+OBLONG            36      78.7   0.00000  D168
+OBLONG          39.4        12   0.00000  D25
+OBLONG            40      78.7   0.00000  D171
+OBLONG        47.244    27.559   0.00000  D111
+OBLONG        51.181    25.591   0.00000  D36
+OBLONG        51.181    31.496   0.00000  D104
+OBLONG        55.118    70.866   0.00000  D263
+OBLONG        61.024    19.685   0.00000  D160
+OBLONG        61.024    23.622   0.00000  D242
+OBLONG        61.024    30.512   0.00000  D33
+OBLONG            70        11   0.00000  D222
+OBLONG            70        25   0.00000  D204
+OBLONG        70.866    55.118   0.00000  D264
+OBLONG            78        22   0.00000  D229
+OBLONG          78.7        36   0.00000  D169
+OBLONG          78.7        40   0.00000  D172
+OBLONG            94        25   0.00000  D233
+OBLONG           420       660   0.00000  D48
+OBLONG           660       420   0.00000  D47
+

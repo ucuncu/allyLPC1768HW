@@ -1,0 +1,53 @@
+{ Using PSTWRITER 17.2.0 d001Jun-28-2019 at 03:10:31 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.61" ignored for U3: SCHEMATIC1, 03__uC (4.30, 0.70). Connecting pin to net "MCI_DAT_OUT".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.63" ignored for U3: SCHEMATIC1, 03__uC (4.30, 0.70). Connecting pin to net "MCI_CS".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.90" ignored for U3: SCHEMATIC1, 03__uC (4.30, 0.70). Connecting pin to net "GPS_INT".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.60" ignored for U3: SCHEMATIC1, 03__uC (4.30, 0.70). Connecting pin to net "MCI_DAT_IN".
+#5 WARNING(ORCAP-36006): Part Name "CAPACITOR NON-POL_SMC0805_10U/6V3/CER" is renamed to "CAPACITOR NON-POL_SMC0805_10U/6".
+#6 WARNING(ORCAP-36006): Part Name "1N5819M/CYL_SMDO214AA21_MBRA340T3" is renamed to "1N5819M/CYL_SMDO214AA21_MBRA340".
+#7 WARNING(ORCAP-36006): Part Name "DIODE TVS_DIOM8059X265N_SMCJ6.5A" is renamed to "DIODE TVS_DIOM8059X265N_SMCJ6.5".
+#8 WARNING(ORCAP-36006): Part Name "DIODE ZENER_SMDSOD323SD05T_1N4148WX" is renamed to "DIODE ZENER_SMDSOD323SD05T_1N41".
+#9 WARNING(ORCAP-36006): Part Name "DIODE TVS BI-DIR_SMDSOD323PESD5V_SD12C" is renamed to "DIODE TVS BI-DIR_SMDSOD323PESD5".
+#10 WARNING(ORCAP-36006): Part Name "INDUCTOR/SM_SMR0603_MPZ1608S601A" is renamed to "INDUCTOR/SM_SMR0603_MPZ1608S601".
+#11 WARNING(ORCAP-36006): Part Name "CON14MICROSD_DM3AT-SF-PEJM5_MICROSD_DM3AT" is renamed to "CON14MICROSD_DM3AT-SF-PEJM5_MIC".
+#12 WARNING(ORCAP-36006): Part Name "10118194-0001LF_AMPHENOL_10118194-0001LF_10118194-0001LF" is renamed to "10118194-0001LF_AMPHENOL_101181".
+#13 WARNING(ORCAP-36006): Part Name "PUSH-BUTTON-SWITCH_TL3315NF100Q_PUSH-BUTTON-SWITCH" is renamed to "PUSH-BUTTON-SWITCH_TL3315NF100Q".
+#14 WARNING(ORCAP-36006): Part Name "BQ24081DCR_SON50P300X300X100-11N_BQ24080DRCR" is renamed to "BQ24081DCR_SON50P300X300X100-11".
+#15 WARNING(ORCAP-36006): Part Name "FSUSB42MUX_SOP50P490X110-10N_FSUSB42MUX" is renamed to "FSUSB42MUX_SOP50P490X110-10N_FS".
+#16 WARNING(ORCAP-36006): Part Name "AP7165-SPG-13_0_SOIC127P600X163-9N_AP7165-SPG-13" is renamed to "AP7165-SPG-13_0_SOIC127P600X163".
+#17 WARNING(ORCAP-36006): Part Name "LPC236X_1_QUAD50M100WG1660_LPC1768" is renamed to "LPC236X_1_QUAD50M100WG1660_LPC1".
+#18 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#15" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#19 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#31" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#20 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#41" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#21 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#55" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#22 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#72" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#23 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#97" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#24 WARNING(ORCAP-36042): Pin "VSS" is renamed to "VSS#83" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#25 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#28" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#26 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#54" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#27 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#71" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#28 WARNING(ORCAP-36042): Pin "VDD" is renamed to "VDD#96" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#29 WARNING(ORCAP-36042): Pin "VDD_DC" is renamed to "VDD_DC#13" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#30 WARNING(ORCAP-36042): Pin "VDD_DC" is renamed to "VDD_DC#42" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#31 WARNING(ORCAP-36042): Pin "VDD_DC" is renamed to "VDD_DC#84" as visible power pin of same name already exists in Package LPC236x_1 , U3: SCHEMATIC1, 03__uC (4.30, 0.70).
+#32 WARNING(ORCAP-36006): Part Name "FXAS21002CQR1_FXAS21002CQR1_FXAS21002CQR1" is renamed to "FXAS21002CQR1_FXAS21002CQR1_FXA".
+#33 WARNING(ORCAP-36006): Part Name "MAX9754_0_QFN50P300X300X100-16N_MMA8452Q" is renamed to "MAX9754_0_QFN50P300X300X100-16N".
+#34 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#5" as visible power pin of same name already exists in Package MAX9754_0 , U5: SCHEMATIC1, 04__Sensors (4.80, 1.70).
+#35 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#10" as visible power pin of same name already exists in Package MAX9754_0 , U5: SCHEMATIC1, 04__Sensors (4.80, 1.70).
+#36 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package MAX9754_0 , U5: SCHEMATIC1, 04__Sensors (4.80, 1.70).
+#37 WARNING(ORCAP-36006): Part Name "ICL232/SO_4_SOG05016WG244L400_ST3232CDR" is renamed to "ICL232/SO_4_SOG05016WG244L400_S".
+#38 WARNING(ORCAP-36006): Part Name "IP4252CZ16_UFDFN16_IP425X_IP4252CZ16" is renamed to "IP4252CZ16_UFDFN16_IP425X_IP425".
+#39 WARNING(ORCAP-36006): Part Name "AT24C64N/SO8_0_SOG0508WG244L200_MB85RC64PNF-G-JNE1" is renamed to "AT24C64N/SO8_0_SOG0508WG244L200".
+#40 WARNING(ORCAP-36006): Part Name "CRYSTAL_3_XTALDFN4_TSX-3225 16.0000MF09Z-AC0" is renamed to "CRYSTAL_3_XTALDFN4_TSX-3225 16.".
+#41 WARNING(ORCAP-36006): Part Name "CRYSTAL/SM_XTAL_CM315_SMD_CM315D32768DZFT" is renamed to "CRYSTAL/SM_XTAL_CM315_SMD_CM315".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_B\allegro/pstchip.dat
+
+Loading... C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_B\allegro/pstchip.dat
+
+Loading... C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_B\allegro/pstxprt.dat
+
+Loading... C:\USERS\HAMIT\DESKTOP\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_B\allegro/pstxnet.dat
+packaging the design view...

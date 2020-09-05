@@ -1,0 +1,229 @@
+\t (00:00:35) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:35)     Journal start - Tue Aug 06 22:50:36 2019
+\t (00:00:35)         Host=HAMIT-PC User=Hamit Pid=27144 CPUs=8
+\t (00:00:35) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:35) 
+\d (00:00:35) Design opened: C:/Users/Hamit/Desktop/PCB_PROJELER/PCB_DONANIM/EPTS_PERFANL_B/allegro/EPTS_PERFANL_B_V0_2.brd
+\i (00:00:35) generaledit 
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:38) roam y 96 
+\i (00:00:38) roam y 96
+\i (00:00:40) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:00:40) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:00:41) roam y 96 
+\i (00:00:41) roam y 96
+\i (00:00:41) roam y 96 
+\i (00:00:41) roam y 96
+\i (00:00:41) roam y 96 
+\i (00:00:41) roam y 96
+\i (00:00:47) slide 
+\t (00:00:47) Pick element to slide.
+\i (00:00:49) slide 
+\t (00:00:50) Pick element to slide.
+\i (00:01:01) move 
+\t (00:01:01) Select element(s) to move.
+\i (00:01:05) pick grid 117.353 -2199.668
+\t (00:01:05) last pick:  117.000 -2200.000
+\t (00:01:05) Pick user-pick origin.
+\i (00:01:07) pick grid 117.353 -2199.668
+\t (00:01:07) last pick:  117.000 -2200.000
+\t (00:01:07) Moving J1 / CON2_JUMPER2PAD_CON2 / JUMPER2PAD.
+\t (00:01:07) Pick new location for the element(s).
+\i (00:01:18) pick grid 113.421 -2216.709
+\t (00:01:18) last pick:  113.000 -2217.000
+\i (00:01:21) QtSignal CVPLayerGrid CVPButtonDrcTop clicked
+\i (00:01:21) QtSignal CVPLayerGrid CVPButtonDrcBottom clicked
+\i (00:01:27) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:01:28) QtSignal CVPLayerGrid CVPButtonViaTop clicked
+\i (00:01:29) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (00:01:33) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:01:34) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:01:34) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:01:40) zoom in 
+\i (00:01:40) setwindow pcb
+\i (00:01:40) zoom in 690.195 -2155.099
+\i (00:01:40) trapsize 3277
+\i (00:01:42) roam x -96 
+\i (00:01:42) roam x -96
+\i (00:01:42) roam x -96 
+\i (00:01:42) roam x -96
+\i (00:01:42) roam x -96 
+\i (00:01:42) roam x -96
+\i (00:01:42) roam x -96 
+\i (00:01:42) roam x -96
+\i (00:01:43) roam y 96 
+\i (00:01:43) roam y 96
+\i (00:01:43) roam y 96 
+\i (00:01:43) roam y 96
+\i (00:01:43) roam y 96 
+\i (00:01:43) roam y 96
+\i (00:01:44) roam y -96 
+\i (00:01:44) roam y -96
+\i (00:01:44) roam y -96 
+\i (00:01:44) roam y -96
+\i (00:01:58) move 
+\t (00:01:58) Select element(s) to move.
+\i (00:02:00) pick grid 112.183 -2203.606
+\t (00:02:00) last pick:  112.000 -2204.000
+\t (00:02:00) Pick user-pick origin.
+\i (00:02:01) pick grid 111.528 -2195.086
+\t (00:02:01) last pick:  112.000 -2195.000
+\t (00:02:01) Moving J1 / CON2_JUMPER2PAD_CON2 / JUMPER2PAD.
+\t (00:02:01) Pick new location for the element(s).
+\i (00:02:03) pick grid 113.494 -2178.700
+\t (00:02:03) last pick:  113.000 -2179.000
+\i (00:02:06) pick grid 109.562 -2191.808
+\t (00:02:06) last pick:  110.000 -2192.000
+\t (00:02:06) Pick user-pick origin.
+\i (00:02:07) pick grid 118.082 -2193.775
+\t (00:02:07) last pick:  118.000 -2194.000
+\t (00:02:07) Moving J1 / CON2_JUMPER2PAD_CON2 / JUMPER2PAD.
+\t (00:02:07) Pick new location for the element(s).
+\i (00:02:08) pick grid 120.704 -2194.430
+\t (00:02:08) last pick:  121.000 -2194.000
+\i (00:02:12) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:02:12) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:02:13) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:02:16) slide 
+\t (00:02:16) Pick element to slide.
+\i (00:02:17) pick grid 98.420 -2147.240
+\t (00:02:17) last pick:  98.000 -2147.000
+\t (00:02:17) last pick:  98.420 -2150.000
+\t (00:02:17) Waiting for the destination pick.
+\i (00:02:22) pick grid 98.420 -2142.652
+\t (00:02:22) last pick:  98.000 -2143.000
+\t (00:02:22) DRC errors detected.
+\t (00:02:22) Pick another element to slide.
+\i (00:02:23) pick grid 102.352 -2143.962
+\t (00:02:23) last pick:  102.000 -2144.000
+\t (00:02:23) last pick:  102.352 -2143.000
+\t (00:02:23) Waiting for the destination pick.
+\i (00:02:24) pick grid 103.663 -2147.895
+\t (00:02:24) last pick:  104.000 -2148.000
+\t (00:02:24) No DRC errors detected.
+\t (00:02:24) Pick another element to slide.
+\i (00:02:26) undo 
+\i (00:02:26) trapsize 3277
+\i (00:02:26) generaledit 
+\i (00:02:27) undo 
+\i (00:02:27) trapsize 3277
+\i (00:02:27) generaledit 
+\i (00:02:30) slide 
+\t (00:02:30) Pick element to slide.
+\i (00:02:31) pick grid 95.798 -2151.172
+\t (00:02:31) last pick:  96.000 -2151.000
+\t (00:02:31) last pick:  95.798 -2150.000
+\t (00:02:31) Waiting for the destination pick.
+\i (00:02:32) pick grid 96.453 -2149.206
+\t (00:02:32) last pick:  96.000 -2149.000
+\t (00:02:32) No DRC errors detected.
+\t (00:02:32) Pick another element to slide.
+\i (00:02:33) pick grid 96.453 -2149.206
+\t (00:02:33) last pick:  96.000 -2149.000
+\t (00:02:33) last pick:  96.453 -2149.000
+\t (00:02:33) Waiting for the destination pick.
+\i (00:02:34) pick grid 95.798 -2147.240
+\t (00:02:34) last pick:  96.000 -2147.000
+\t (00:02:34) DRC errors detected.
+\t (00:02:34) Pick another element to slide.
+\i (00:02:35) pick grid 95.798 -2147.240
+\t (00:02:35) last pick:  96.000 -2147.000
+\t (00:02:35) last pick:  95.798 -2147.000
+\t (00:02:35) Waiting for the destination pick.
+\i (00:02:36) pick grid 95.142 -2150.517
+\t (00:02:36) last pick:  95.000 -2151.000
+\t (00:02:36) No DRC errors detected.
+\t (00:02:36) Pick another element to slide.
+\i (00:02:38) pick grid -0.550 -2119.712
+\t (00:02:38) last pick:  -1.000 -2120.000
+\t (00:02:38) Pick element to slide.
+\i (00:02:40) move 
+\t (00:02:40) Select element(s) to move.
+\i (00:02:41) pick grid 111.528 -2193.119
+\t (00:02:41) last pick:  112.000 -2193.000
+\t (00:02:41) Pick user-pick origin.
+\i (00:02:42) pick grid 112.183 -2196.396
+\t (00:02:42) last pick:  112.000 -2196.000
+\t (00:02:42) Moving J1 / CON2_JUMPER2PAD_CON2 / JUMPER2PAD.
+\t (00:02:42) Pick new location for the element(s).
+\i (00:02:46) pick grid 112.183 -2202.951
+\t (00:02:46) last pick:  112.000 -2203.000
+\i (00:02:52) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:02:52) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:02:52) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:02:55) slide 
+\t (00:02:56) Pick element to slide.
+\i (00:02:57) pick grid 128.569 -2326.171
+\t (00:02:57) last pick:  129.000 -2326.000
+\t (00:02:57) last pick:  128.569 -2327.000
+\t (00:02:57) Waiting for the destination pick.
+\i (00:02:59) pick grid 135.123 -2349.766
+\t (00:02:59) last pick:  135.000 -2350.000
+\t (00:02:59) No DRC errors detected.
+\t (00:02:59) Pick another element to slide.
+\i (00:03:01) pick grid 101.041 -2334.691
+\t (00:03:01) last pick:  101.000 -2335.000
+\t (00:03:01) last pick:  103.368 -2332.368
+\t (00:03:01) Waiting for the destination pick.
+\i (00:03:01) pick grid 98.420 -2334.691
+\t (00:03:01) last pick:  98.000 -2335.000
+\t (00:03:01) No DRC errors detected.
+\t (00:03:01) Pick another element to slide.
+\i (00:03:05) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:03:06) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:03:06) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:03:10) pick grid 117.427 -2151.172
+\t (00:03:10) last pick:  117.000 -2151.000
+\t (00:03:10) last pick:  117.427 -2151.000
+\t (00:03:10) Waiting for the destination pick.
+\i (00:03:11) pick grid 118.082 -2149.206
+\t (00:03:11) last pick:  118.000 -2149.000
+\t (00:03:11) No DRC errors detected.
+\t (00:03:11) Pick another element to slide.
+\i (00:03:25) save 
+\i (00:03:27) fillin no 
+\i (00:03:34) fillin "EPTS_PERFANL_B_V0_3.brd"
+\i (00:03:34) generaledit 
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:39) roam y -96 
+\i (00:03:39) roam y -96
+\i (00:03:41) roam y 96 
+\i (00:03:41) roam y 96
+\i (00:03:41) roam y 96 
+\i (00:03:41) roam y 96
+\i (00:03:41) roam y 96 
+\i (00:03:41) roam y 96
+\i (00:03:43) open 
+\i (00:03:50) fillin "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_BL\allegro\EPTS_PERFANL_BL_V0_1.brd"
+\i (00:03:50) cd "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_BL\allegro"
+\t (00:03:50) Opening existing design...
+\i (00:03:50) trapsize 4578
+\t (00:03:50)     Journal end - Tue Aug 06 22:53:52 2019

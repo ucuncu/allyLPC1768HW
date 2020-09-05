@@ -1,0 +1,75 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Tue Aug 06 22:26:28 2019
+\t (00:00:04)         Host=HAMIT-PC User=Hamit Pid=18476 CPUs=8
+\t (00:00:04) CmdLine= C:\Cadence\Cadence\Cadence_SPB_17.2-2016\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/Users/Hamit/Desktop/PCB_PROJELER/PCB_DONANIM/EPTS_PERFANL_B/allegro/EPTS_PERFANL_B_V0_2.brd
+\i (00:00:06) trapsize 5870
+\i (00:00:06) trapsize 6003
+\i (00:00:06) trapsize 6450
+\i (00:00:07) trapsize 7042
+\i (00:00:07) trapsize 22810
+\i (00:00:07) generaledit 
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:12) roam y 96 
+\i (00:00:12) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:14) roam y 96 
+\i (00:00:14) roam y 96
+\i (00:00:20) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: BOTTOM"
+\i (00:00:20) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: BOTTOM"
+\i (00:00:22) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (00:00:22) QtSignal CVPLayerGrid CVPButtonViaTop clicked
+\i (00:00:23) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:00:23) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:00:24) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:00:24) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:00:30) setwindow form.find
+\i (00:00:30) FORM find drc_errors NO 
+\i (00:00:33) FORM find pins NO 
+\i (00:00:33) FORM find nets YES 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) pick grid 587.384 -2395.043
+\t (00:00:38) last pick:  587.000 -2395.000
+\i (00:08:21) roam y -96 
+\i (00:08:21) roam y -96
+\i (00:08:21) roam y -96 
+\i (00:08:21) roam y -96
+\i (00:08:21) roam y -96 
+\i (00:08:21) roam y -96
+\i (00:08:22) roam y 96 
+\i (00:08:22) roam y 96
+\i (00:08:22) roam y 96 
+\i (00:08:22) roam y 96
+\i (00:08:23) QtSignal CVPLayerGrid CVPButtonPinBottom clicked
+\i (00:08:24) QtSignal CVPLayerGrid CVPButtonPinTop clicked
+\i (00:08:25) QtSignal CVPLayerGrid CVPButtonViaTop clicked
+\i (00:08:26) QtSignal CVPLayerGrid CVPButtonEtchTop clicked
+\i (00:08:26) QtSignal CVPLayerGrid CVPButtonEtchBottom clicked
+\i (00:08:27) QtSignal CVPLayerGrid CVPButtonViaBottom clicked
+\i (00:08:27) roam y -96 
+\i (00:08:27) roam y -96
+\i (00:08:28) roam y -96 
+\i (00:08:28) roam y -96
+\i (00:08:50) roam y 96 
+\i (00:08:50) roam y 96
+\i (00:08:51) roam y 96 
+\i (00:08:51) roam y 96
+\i (00:09:37) open 
+\e (00:09:37) Do you want to save the changes you made to EPTS_PERFANL_B_V0_2.brd?
+\i (00:09:39) fillin no 
+\i (00:09:48) fillin "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_BL\allegro\EPTS_PERFANL_BL_V0_0.brd"
+\i (00:09:48) cd "C:\Users\Hamit\Desktop\PCB_PROJELER\PCB_DONANIM\EPTS_PERFANL_BL\allegro"
+\t (00:09:48) Opening existing design...
+\i (00:09:48) trapsize 9157
+\t (00:09:48)     Journal end - Tue Aug 06 22:36:13 2019

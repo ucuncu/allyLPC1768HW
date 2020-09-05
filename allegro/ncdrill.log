@@ -1,0 +1,75 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : EPTS_PERFANL_B_V0_2.brd                       )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Sun Jun 30 20:31:23 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.4
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (inch)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		NO
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-360): Design precision is greater than that of the drill output file data.
+ WARNING(SPMHMF-361): Data rounding errors are very possible.
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+          8.000  P        T01            0.000000     0.000000
+         19.685  P        T02            0.000000     0.000000
+         21.654  P        T03            0.000000     0.000000
+         38.000  P        T04            0.000000     0.000000
+         62.000  P        T05            0.000000     0.000000
+         21.654  N        T06            0.000000     0.000000
+
+
+Drill files being output to directory 'C:/Users/Hamit/Desktop/PCB_PROJELER/PCB_DONANIM/EPTS_PERFANL_B/allegro' ...
+
+
+
+     'EPTS_PERFANL_B_V0_2-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   8.0000    0.0000/  0.0000      PLATED        277
+     T02    2.  19.6850    0.0000/  0.0000      PLATED          2
+     T03    3.  21.6540    0.0000/  0.0000      PLATED          2
+     T04    4.  38.0000    0.0000/  0.0000      PLATED          4
+     T05    5.  62.0000    0.0000/  0.0000      PLATED          4
+     T06    6.  21.6540    0.0000/  0.0000  NON_PLATED          2
+
+     ---- Total holes:                                        291
+
+     ---- Total head travel:              3.73 feet (1.14 meters)
+
